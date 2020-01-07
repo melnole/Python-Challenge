@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------
+total months : {totalmonths}
+total : {total}
+averagechange : {avgChange}
+greatest profit increase : {bestmonth}
+greatest profit decline : {worstmonth}
